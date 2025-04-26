@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(207, 12, 12);
+}
+main{
+    display:flow-root;
+    background-color: rgb(207, 12, 12);
+}
+main img{
+width:300px ;
+height: 200px;
+}
+header{
+    background-color: rgb(237, 5, 5);
+}
+footer{
+background-color: rgb(237, 5, 5);
+
+}
+a href{
+    margin: 50px;
+}
